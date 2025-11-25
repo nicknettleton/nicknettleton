@@ -8,7 +8,7 @@ After 18+ years as a founder and CEO/CTO - leading national-scale platforms with
 
 ### 🏆 My Work in AI & Explainability
 
-My core focus is on **Responsible & Explainable AI (XAI)** - for example combing human-centred design with technical work to solve explainability challenges.
+I am particularly interested in **Responsible & Explainable AI (XAI)** - for example combing human-centred design with technical work to solve explainability challenges.
 
 You can see my work in my pinned repositories:
 
