@@ -1,6 +1,6 @@
 Hi, I'm Nick.
 
-I'm a Strategic Technology Leader & Architect with a passion for building impactful, human-centred experiences.
+I'm a Strategic Design Engineer & Architect with a passion for building impactful, human-centred experiences and high-performance frontend systems.
 
 After 18+ years as a founder and CEO/CTO - leading national-scale platforms with orgs like the NHS and FastTrack 100 winner Cyclescheme - I'm now focused on hands-on, high-impact work at the intersection of **AI, Product Design, and Engineering**.
 
